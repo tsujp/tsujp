@@ -1,6 +1,6 @@
 # Hi, I'm Jordan
 
-I'm a full stack developer/engineer/designer/UX/UI-type-person with a focus on JAM, MERN, and Python/Ruby based stacks. I also dabble in C (C99 and C11), Go, Zig, and Rust to the tune of systems programming, and hacking OSS tooling for fun or for want.
+I'm a full stack developer/engineer/designer/UX/UI-type-person with a focus on JAM, MERN, and Python/Ruby based stacks. I also dabble in C (C99 and C11), and Zig to the tune of systems programming. I also enjoy hacking OSS tooling for fun or for want.
 
 I'm also a long-time player in the crypto scene (specifically blockchain although my cryptography-proper is coming along in terms of hard mathematical understanding too), so I enjoy building for Web3 and writing things in Solidity.
 
