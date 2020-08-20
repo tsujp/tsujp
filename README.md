@@ -1,9 +1,17 @@
-# Hi, I'm Jordan
+<samp>
+     ██╗ ██████╗ ██████╗ ██████╗  █████╗ ███╗   ██╗
+     ██║██╔═══██╗██╔══██╗██╔══██╗██╔══██╗████╗  ██║
+     ██║██║   ██║██████╔╝██║  ██║███████║██╔██╗ ██║
+██   ██║██║   ██║██╔══██╗██║  ██║██╔══██║██║╚██╗██║
+╚█████╔╝╚██████╔╝██║  ██║██████╔╝██║  ██║██║ ╚████║
+ ╚════╝  ╚═════╝ ╚═╝  ╚═╝╚═════╝ ╚═╝  ╚═╝╚═╝  ╚═══╝
+  
 
-I'm a full stack developer/engineer/designer/UX/UI-type-person with a focus on JAM, MERN, and Python/Ruby based stacks. I also dabble in C (C99 and C11), and Zig to the tune of systems programming. I also enjoy hacking OSS tooling for fun or for want.
+Full stack software developer
 
-I'm also a long-time player in the crypto scene (specifically blockchain although my cryptography-proper is coming along in terms of hard mathematical understanding too), so I enjoy building for Web3 and writing things in Solidity.
+  - JAM, MERN, TypeScript, C99/11, Zig, Ruby, Python
+  - (F)OSS is the bees knees
+  - Crypto(graphy) is also the knee of a bee
 
-Finally, I would describe myself as a "learns it" kind of guy. I am not attached to any one tool or methodoloy, I adapt the best tool for the job and if that means I have to learn something new I roll my sleeves up with excitement.
-
-Drop a line and say hi if you like!
+Don't be afraid to reach out if you want!
+</samp>
