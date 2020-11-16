@@ -5,6 +5,7 @@ Full stack software developer and devopsy-engineery-architecty stuff
 
   - JAM, MERN, RoR, microservices, TypeScript, C99, Zig, Ruby, Bash
   - Nomad, Vault, Kubernetes
+  - AWS, Alibaba Cloud, GCP
   - Whole bunch of tooling: Terraform, Ansible, etc
   - (F)OSS is the bees knees
   - Crypto(graphy) is also the knee of a bee
