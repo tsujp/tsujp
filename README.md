@@ -5,23 +5,23 @@ I'm mostly on SourceHut (https://sr.ht/~tsujp) with mirrors to GitHub.
 
 Here's a summary of the things I usually touch:
 
-  - POSIX Shell ; Bash ; TypeScript ; Go ; C ; C# ; Zig ; Ruby ; Crystal
+  - POSIX Shell ; Bash ; TypeScript ; Go ; C ; C# ; Zig ; Ruby ; Gleam
     OCaml ; Janet ; Fennel (Lua).
   - Elmish ; JAM ; MERN ; monolithic ; microservices.
   - Various web frameworks/technologies: React, Preact, HTMLx, _hyperscript.
   - AWS ; Azure.
   - Nomad ; Vault ; Docker ; Podman ; Kubernetes ; Consul.
-  - Terraform ; Ansible ; Elastic ; Logstash ; SaltStack ; Ansible.
+  - Terraform ; Ansible ; Elastic ; Logstash ; SaltStack.
 
-  - Linux (Alpine, Void) ; macOS ; FreeBSD.
+  - Linux (Alpine, Void, Ubuntu) ; macOS ; FreeBSD.
   - F(L)OSS is the bees knees.
   - Crypto(graphy) is also the knee of a bee.
 
   - Emacs (with evil mode) ; Sublime Text 2 and 3 and 4 ; Vim.
   
-Things I've (non-trivially) used in the past and could get re-acquainted with:
+Things I've used in the past and could get re-acquainted with:
 
-  - .NET 5, 6 ; F#; Ruby ; Elixir ; Python.
+  - .NET 5, 6 ; F# ; Crystal ; Elixir ; Python.
   - ASP.NET 5 ; Ruby on Rails ; Django ; Phoenix ; VueJS ; NextJS.
   - Alibaba Cloud ; Google Cloud.
 
