@@ -1,13 +1,11 @@
 <pre>
-Hi there, I'm Jordan. I'm a DevOps / Systems / Full-stack software engineer.
+Hi there, I'm Jordan. I do devops, full-stack, and (increasingly) systems software engineering.
 
-I'm mostly on SourceHut (https://sr.ht/~tsujp) with mirrors to GitHub.
+I'm mostly on SourceHut (https://sr.ht/~tsujp) with mirrors to GitHub where appropriate.
 
 Here's a summary of the things I usually touch:
 
-  - POSIX Shell ; Bash ; TypeScript ; Go ; C ; C# ; Zig ; Ruby ; Gleam
-    OCaml ; Janet ; Fennel (Lua).
-  - Elmish ; JAM ; MERN ; monolithic ; microservices.
+  - POSIX Shell ; Bash ; TypeScript ; Ruby ; C, Go, Zig (increasingly).
   - Various web frameworks/technologies: React, Preact, HTMLx, _hyperscript.
   - AWS ; Azure.
   - Nomad ; Vault ; Docker ; Podman ; Kubernetes ; Consul.
@@ -17,13 +15,14 @@ Here's a summary of the things I usually touch:
   - F(L)OSS is the bees knees.
   - Crypto(graphy) is also the knee of a bee.
 
-  - Emacs (with evil mode) ; Sublime Text 2 and 3 and 4 ; Vim.
+  - Emacs (with evil mode) ; Vim.
   
 Things I've used in the past and could get re-acquainted with:
 
-  - .NET 5, 6 ; F# ; Crystal ; Elixir ; Python.
+  - .NET 5, 6 ; C# ; F# ; Crystal ; Elixir ; Python ; Janet ; OCaml.
   - ASP.NET 5 ; Ruby on Rails ; Django ; Phoenix ; VueJS ; NextJS.
   - Alibaba Cloud ; Google Cloud.
+  - Elmish-style frameworks.
 
 Don't be afraid to reach out if you want.
 </pre>
