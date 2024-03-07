@@ -1,30 +1,39 @@
-<pre>
-Hi there, I'm Jordan. I do devops, full-stack, and (increasingly) systems software engineering.
+# Hi, I'm Jordan
 
-I'm mostly on SourceHut (https://sr.ht/~tsujp) with mirrors to GitHub where appropriate.
+I'm an experienced DevOps and full-stack web developer. I'm doing increasingly more systems programming and zero-knowledge circuits work. Don't be afraid to reach out if you want.
 
-Here's a summary of the things I usually touch:
+I also use SourceHut (https://sr.ht/~tsujp) with mirrors to GitHub where appropriate.
 
-  - POSIX Shell ; Bash ; TypeScript ; Ruby ; C, Go, Zig (increasingly).
-  - Various web frameworks/technologies: React, Preact, HTMLx, _hyperscript.
-  - AWS ; Azure.
-  - Nomad ; Vault ; Docker ; Podman ; Kubernetes ; Consul.
-  - Terraform ; Ansible ; Elastic ; Logstash ; SaltStack.
+## Tech
 
-  - Linux (Alpine, Void, Ubuntu) ; macOS ; FreeBSD.
-  - F(L)OSS is the bees knees.
-  - Crypto(graphy) is also the knee of a bee.
+### Ethereum / Zero-Knowledge
 
-  - Emacs (with evil mode) ; Vim.
-  
-Things I've used in the past and could get re-acquainted with:
+  - Noir, Solidity (some).
+  - EVM.
 
-  - .NET 5, 6 ; C# ; F# ; Crystal ; Elixir ; Python ; Janet ; OCaml.
-  - ASP.NET 5 ; Ruby on Rails ; Django ; Phoenix ; VueJS ; NextJS.
-  - Alibaba Cloud ; Google Cloud.
-  - Elmish-style frameworks.
+### Systems
+
+  - POSIX Shell, Bash.
+  - C, Zig, Go (some).
+
+### Web / Server
+
+  - TypeScript (Bun or Node.js), Ruby, .NET (5 and 6), Crystal, Python, F# (some).
+  - Linux (Alpine, Void, Ubuntu).
+
+### DevOps
+
+  - Kubernetes, Docker, Nomad, Vault, Consul.
+  - Terraform, Ansible, Elastic, Logstash, SaltStack.
+
+### Frameworks
+
+  - All the usual ones: React, Rails, ASP.NET 5, VueJS, NextJS.
+
+### Clouds
+
+  - Azure, AWS, Alibaba.
 
 Don't be afraid to reach out if you want.
-</pre>
 
 [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Ftsujp&count_bg=%2379C83D&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
