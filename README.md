@@ -11,28 +11,28 @@ I also use SourceHut (https://sr.ht/~tsujp) with mirrors to GitHub where appropr
   - Noir, Solidity (some).
   - EVM.
 
-### Systems
+### Systems Languages
 
   - POSIX Shell, Bash.
-  - C, Zig, Go (some).
+  - C, Zig, Go (some), Rust (some).
 
 ### Web / Server
 
-  - TypeScript (Bun or Node.js), Ruby, .NET (5 and 6), Crystal, Python, F# (some).
-  - Linux (Alpine, Void, Ubuntu).
+  - TypeScript (Bun or Node.js), Ruby, .NET (5 and 6), Crystal, Python, CSS, F# (some).
+  - Linux (Ubuntu, Fedora, Alpine, Void), SystemD units.
 
 ### DevOps
 
-  - Kubernetes, Docker, Nomad, Vault, Consul.
-  - Terraform, Ansible, Elastic, Logstash, SaltStack.
+  - Kubernetes, Helm, Docker(Compose), Nomad, Vault, Consul.
+  - Terraform, Ansible, Elastic, Logstash, SaltStack, Kafka.
 
 ### Frameworks
 
-  - All the usual ones: React, Rails, ASP.NET 5, VueJS, NextJS.
+  - All the usual ones: React, Rails, ASP.NET 5, VueJS, NextJS, Svelte, SolidJS.
 
 ### Clouds
 
-  - Azure, AWS, Alibaba.
+  - Azure, AWS, Alibaba, GCP (some).
 
 Don't be afraid to reach out if you want.
 
