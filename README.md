@@ -1,39 +1,35 @@
-# Hi, I'm Jordan
+### Hi, I'm Jordan
 
-I'm an experienced DevOps and full-stack web developer. I'm doing increasingly more systems programming and zero-knowledge circuits work. Don't be afraid to reach out if you want.
+I'm an experienced devops and full-stack web developer. I also do systems programming and zero-knowledge circuits work. Don't be afraid to reach out if you want.
 
-I also use SourceHut (https://sr.ht/~tsujp) with mirrors to GitHub where appropriate.
+#### Tech
 
-## Tech
+<details>
 
-### Ethereum / Zero-Knowledge
+<summary>Expand for the deets</summary>
+<br />
+I believe lists like this are good for indication only; generally true in all of life but (potential bias) much more so in software we're constant life-long learners.
+
+##### Ethereum / Zero-Knowledge
 
   - Noir, Solidity (some).
   - EVM.
 
-### Systems Languages
+##### Systems Languages
 
   - POSIX Shell, Bash.
   - C, Zig, Go (some), Rust (some).
 
-### Web / Server
+##### Web / Server / DevOps
 
-  - TypeScript (Bun or Node.js), Ruby, .NET (5 and 6), Crystal, Python, CSS, F# (some).
-  - Linux (Ubuntu, Fedora, Alpine, Void), SystemD units.
-
-### DevOps
-
-  - Kubernetes, Helm, Docker(Compose), Nomad, Vault, Consul.
+  - TypeScript, Ruby, .NET (C#, F#), Crystal, Python, CSS.
+  - Linux (Debian, Ubuntu, Fedora, Void), SystemD.
+  - Podman, Kubernetes, Helm, Docker(Compose), Nomad, Vault, Consul.
   - Terraform, Ansible, Elastic, Logstash, SaltStack, Kafka.
 
-### Frameworks
-
-  - All the usual ones: React, Rails, ASP.NET 5, VueJS, NextJS, Svelte, SolidJS.
-
-### Clouds
+##### Clouds / Frameworks
 
   - Azure, AWS, Alibaba, GCP (some).
+  - All the usual ones: React, Rails, ASP.NET 5, VueJS, NextJS, Svelte, SolidJS.
 
-Don't be afraid to reach out if you want.
-
-[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Ftsujp&count_bg=%2379C83D&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
+</details>
